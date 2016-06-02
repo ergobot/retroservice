@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retroservice.iml" filepath="$PROJECT_DIR$/.idea/modules/retroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retroservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/retroservice_main.iml" group="retroservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retroservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/retroservice_test.iml" group="retroservice" />
+    </modules>
+  </component>
+</project>
